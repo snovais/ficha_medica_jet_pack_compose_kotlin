@@ -1,0 +1,101 @@
+# ================================
+
+# Android / Kotlin / Gradle
+
+# ================================
+
+*.iml
+.gradle/
+local.properties
+/.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Gradle
+
+build/
+**/build/
+
+# Kotlin
+
+*.kotlin_module
+
+# Logs
+
+*.log
+
+# ================================
+
+# Android Studio
+
+# ================================
+
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ================================
+
+# Keystore (NUNCA subir!)
+
+# ================================
+
+*.jks
+*.keystore
+
+# ================================
+
+# APK / AAB
+
+# ================================
+
+*.apk
+*.aab
+
+# ================================
+
+# OS Files
+
+# ================================
+
+.DS_Store
+Thumbs.db
+
+# ================================
+
+# Firebase / Google Services (se usar)
+
+# ================================
+
+google-services.json
+*.json
+
+# ================================
+
+# NDK
+
+# ================================
+
+local.properties
+
+# ================================
+
+# IntelliJ
+
+# ================================
+
+out/
+
+# ================================
+
+# Misc
+
+# ================================
+
+*.tmp
+*.bak
+*.swp

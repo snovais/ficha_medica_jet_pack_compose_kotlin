@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FichaMed" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1565C0</item>
+    </style>
+    <style name="Theme.FichaMed.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1565C0</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_medical</item>
+        <item name="postSplashScreenTheme">@style/Theme.FichaMed</item>
+    </style>
+</resources>
